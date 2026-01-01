@@ -16,7 +16,7 @@ This project addresses two critical pain points in modern business:
 It uses **Retrieval-Augmented Generation (RAG)** to ingest PDF and DOCX files, retrieve relevant context, and rewrite it using a specific "Simplifier Persona".
 [📄 Read Full Documentation](TD-OS(Technical-Documentation).pdf)
 ## 📚 References
-* **[Small Language Models are the Future of Agentic AI](YOUR_LINK_HERE)**
+* **[Small Language Models are the Future of Agentic AI](https://arxiv.org/pdf/2506.02153)**
     * *This article explains why SLMs are becoming the standard for private, efficient AI.*
 ## ⚡ Key Features & Optimization
 
