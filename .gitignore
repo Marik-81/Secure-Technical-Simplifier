@@ -1,0 +1,13 @@
+# Virtual Environments
+.venv/
+venv/
+__pycache__/
+
+# Environment Variables (Security)
+.env
+
+# Local Databases (Privacy - Do not upload!)
+chroma_db/
+
+# OS junk
+.DS_Store
